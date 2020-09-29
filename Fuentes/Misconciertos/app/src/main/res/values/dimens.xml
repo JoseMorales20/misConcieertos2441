@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <dimen name="marginBase">30dp</dimen>
+    <dimen name="tamanioLetra">25sp</dimen>
+
+
+</resources>
